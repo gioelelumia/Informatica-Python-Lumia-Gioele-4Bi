@@ -1,0 +1,17 @@
+# Cache dell'interprete Python
+
+__pycache__/
+
+*.pyc
+
+# Ambienti virtuali
+
+.venv/
+
+venv/
+
+# Notebook e file temporanei
+
+.ipynb_checkpoints/
+
+Thumbs.db
