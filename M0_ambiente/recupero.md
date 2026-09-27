@@ -5,7 +5,7 @@ Quando si verifica questo errore, il file `.gitignore` da solo non basta a risol
 
 ---
 
-## Sequenza dei comandi da terminale
+## comando usato
 
 ```
 echo "M0_ambiente/temporanei/" >> .gitignore
@@ -14,3 +14,4 @@ git ls-files M0_ambiente/temporanei
 git check-ignore -v M0_ambiente/temporanei/nota.txt
 git rm --cached -r M0_ambiente/temporanei/
 ```
+
