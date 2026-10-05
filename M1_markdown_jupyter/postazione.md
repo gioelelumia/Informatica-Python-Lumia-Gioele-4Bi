@@ -12,14 +12,12 @@ L'hardware comprende un processore Ryzen 5 e una scheda video RTX 3060.
 
 La dotazione di memoria garantisce stabilità durante l'esecuzione dei programmi.
 
-
 ## Software Installato
 
 L'ambiente software include tutti gli strumenti essenziali per lo studio dell'informatica, come Visual Studio Code e il pacchetto JDK per la programmazione in Java.
 
 Viene utilizzato regolarmente anche Git per il controllo di versione e la gestione dei repository di codice.
 
-
 ## Credenziali e Servizi
 
-L'accesso alle piattaforme e ai servizi didattici avviene tramite scolastici, le attività di laboratorio prevedono l'utilizzo del profilo **GitHub** personale.
+L'accesso alle piattaforme e ai servizi didattici avviene tramite credenziali scolastiche, le attività di laboratorio prevedono l'utilizzo del profilo **GitHub** personale.
